@@ -1,0 +1,21 @@
+{
+    "name": "auth-service",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Authentication microservice for Vinheiria Agnello",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "bcrypt": "^6.0.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.6.1",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^8.20.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

@@ -1,1 +1,1 @@
-# VinheiriaAgnello
+Rodar docker compose up --build
